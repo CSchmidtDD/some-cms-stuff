@@ -1,0 +1,5 @@
+<?php $_config_vars = array (
+  'title_help' => 'Hilfe zur erweiterten Suche',
+  'text_help' => 'Die Suchfunktion erm&ouml;glicht Ihnen, innerhalb von Artikelnamen, Artikelbeschreibungen, Herstellern und Artikelnummern zu suchen.<br /><br />Sie haben die M&ouml;glichkeit, logische Operatoren wie "AND" (Und) und "OR" (oder) zu verwenden.<br /><br />Zum Beispiel k&ouml;nnten Sie also angeben: <span class="underline">Microsoft AND Maus</span>.<br /><br />Desweiteren k&ouml;nnen Sie Klammern verwenden um die Suche zu verschachteln, also z.B.:<br /><br /><span class="underline">Microsoft AND (Maus OR Tastatur OR "Visual Basic")</span>.<br /><br />Mit Anf&uuml;hrungszeichen k&ouml;nnen Sie mehrere Worte zu einem Suchbegriff zusammenfassen.',
+  'text_close' => '<span class="underline">Fenster schliessen</span> [x]',
+); ?>

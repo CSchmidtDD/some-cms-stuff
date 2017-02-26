@@ -1,0 +1,15 @@
+a:2:{i:0;a:20:{s:18:"manufacturers_name";s:7:"Bedford";s:28:"products_manufacturers_model";N;s:11:"products_id";s:2:"61";s:12:"products_ean";s:0:"";s:17:"products_quantity";s:1:"0";s:21:"products_shippingtime";s:1:"1";s:14:"products_model";s:4:"6079";s:14:"products_image";s:8:"61_0.jpg";s:14:"products_price";s:6:"2.1402";s:25:"products_discount_allowed";s:4:"0.00";s:15:"products_weight";s:5:"0.130";s:21:"products_tax_class_id";s:1:"2";s:16:"manufacturers_id";s:1:"3";s:14:"products_fsk18";s:1:"0";s:12:"products_vpe";s:1:"2";s:19:"products_vpe_status";s:1:"0";s:18:"products_vpe_value";s:6:"0.1250";s:13:"products_name";s:19:"Gänsegriebenschmaus";s:20:"products_description";s:674:"<table cellspacing="0" cellpadding="0" border="0" width="492" x:str="" style="width: 369pt; border-collapse: collapse;">
+    <colgroup><col width="492" style="width: 369pt;" /></colgroup>
+    <tbody>
+        <tr height="51" style="height: 38.25pt;">
+            <td height="51" width="492" class="xl24" style="border: medium none rgb(236, 233, 216); background-color: transparent; width: 369pt; height: 38.25pt;"><font size="2" face="Arial">Aus feinstem G&auml;nse- und Schweineschmalz mit Grieben, mit reichlich R&ouml;stzwiebeln und Gew&uuml;rzen zu einem deftigen, streichf&auml;higen Brotaufstrich zusammengestellt.</font></td>
+        </tr>
+    </tbody>
+</table>";s:26:"products_short_description";s:6:"<br />";}i:1;a:20:{s:18:"manufacturers_name";s:7:"Bedford";s:28:"products_manufacturers_model";N;s:11:"products_id";s:2:"60";s:12:"products_ean";s:0:"";s:17:"products_quantity";s:1:"0";s:21:"products_shippingtime";s:1:"1";s:14:"products_model";s:4:"6081";s:14:"products_image";s:8:"60_0.jpg";s:14:"products_price";s:6:"2.1402";s:25:"products_discount_allowed";s:4:"0.00";s:15:"products_weight";s:5:"0.130";s:21:"products_tax_class_id";s:1:"2";s:16:"manufacturers_id";s:1:"3";s:14:"products_fsk18";s:1:"0";s:12:"products_vpe";s:1:"2";s:19:"products_vpe_status";s:1:"0";s:18:"products_vpe_value";s:6:"0.1250";s:13:"products_name";s:16:"Hubertus Schmalz";s:20:"products_description";s:700:"<table cellspacing="0" cellpadding="0" border="0" width="492" x:str="" style="width: 369pt; border-collapse: collapse;">
+    <colgroup><col width="492" style="width: 369pt;" /></colgroup>
+    <tbody>
+        <tr height="51" style="height: 38.25pt;">
+            <td height="51" width="492" class="xl24" style="border: medium none rgb(236, 233, 216); background-color: transparent; width: 369pt; height: 38.25pt;"><font size="2" face="Arial">Aus feinstem G&auml;nse- und Schweineschmalz mit Grieben, mit reichlich R&ouml;stzwiebeln, Kr&auml;utern und frischem Knoblauch zu einem kr&auml;ftigen, streichf&auml;higen Brotaufstrich zusammengestellt.</font></td>
+        </tr>
+    </tbody>
+</table>";s:26:"products_short_description";s:6:"<br />";}}

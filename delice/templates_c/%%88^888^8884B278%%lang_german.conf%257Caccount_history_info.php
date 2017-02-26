@@ -1,0 +1,16 @@
+<?php $_config_vars = array (
+  'heading_history_info' => 'Bestellinformationen',
+  'text_date' => 'Bestelldatum: ',
+  'text_oid' => 'Bestellnummer: ',
+  'text_shipping_address' => 'Versandadresse:',
+  'text_shipping_method' => 'Versandart:',
+  'title_payment_info' => 'Rechnungsinformationen:',
+  'text_payment_info' => 'Zahlungsinformation:',
+  'text_payment_address' => 'Rechnungsadresse:',
+  'text_payment_method' => 'Zahlungsweise:',
+  'text_products' => 'Artikel:',
+  'text_comments' => 'Ihre Anmerkungen:',
+  'title_history' => 'Bestellhistorie',
+  'title_print' => 'Druckversion der Bestellung',
+  'text_print' => 'Zu Ihrer Best&auml;tigung k&ouml;nnen Sie die Bestellung ausdrucken.',
+); ?>

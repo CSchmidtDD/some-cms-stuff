@@ -1,0 +1,17 @@
+<?php $_config_vars = array (
+  'heading_confirmation' => 'Bestellung abschicken:',
+  'text_shipping_address' => 'Versandadresse:',
+  'text_shipping_method' => 'Versandart:',
+  'title_payment_info' => 'Rechnungsinformationen',
+  'text_payment_info' => 'Zahlungsinformationen:',
+  'text_payment_address' => 'Rechnungsadresse:',
+  'text_payment_method' => 'Zahlungsweise:',
+  'text_products' => 'Artikel:',
+  'text_edit' => '(Bearbeiten)',
+  'text_comments' => 'Ihre Anmerkungen:',
+  'text_shipping_info' => 'Versandinformationen:',
+  'text_confirm' => 'Best&auml;tigung:',
+  'text_finished' => 'Fertig!',
+  'text_ip' => 'Um den Missbrauch unseres Angebots zu verhindern, speichern wir Ihre IP-Adresse unter Wahrung Ihrer Privatsph&auml;re:',
+  'text_information' => 'Vor dem Absenden Ihrer Bestellung sehen Sie nochmals die von Ihnen eingegebenen Daten und Artikel. Durch Anklicken der <em><font color="#009933">(Bearbeiten)</font></em> Links neben den einzelnen Daten haben Sie nochmals die M&ouml;glichkeit, diese zu korrigieren.<br />Den Bestellvorgang k&ouml;nnen Sie jederzeit durch Schlie&szlig;en des Browser-Fensters abbrechen, oder durch Dr&uuml;cken des <strong>Kaufen</strong> Buttons abschlie&szlig;en.',
+); ?>

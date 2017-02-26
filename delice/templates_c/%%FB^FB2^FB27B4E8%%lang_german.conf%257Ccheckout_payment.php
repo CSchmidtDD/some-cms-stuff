@@ -1,0 +1,17 @@
+<?php $_config_vars = array (
+  'heading_payment' => 'Zahlungsweise',
+  'title_address' => 'Rechnungsadresse',
+  'text_address' => 'Bitte w&auml;hlen Sie aus Ihrem Adressbuch die gew&uuml;nschte Rechnungsadresse f&uuml;r Ihre Bestellung:',
+  'title_payment' => 'Zahlungsweise',
+  'text_payment' => 'Bitte w&auml;hlen Sie die gew&uuml;nschte Zahlungsweise f&uuml;r Ihre Bestellung:',
+  'title_comments' => 'F&uuml;gen Sie hier Ihre Anmerkungen zu dieser Bestellung ein:',
+  'title_continue' => 'Fortsetzung des Bestellvorganges',
+  'text_continue' => 'Zur Best&auml;tigung Ihrer Bestellung',
+  'text_shipping_info' => 'Versandinformationen',
+  'text_payment_info' => 'Zahlungsweise',
+  'text_confirm' => 'Best&auml;tigung',
+  'text_finished' => 'Fertig!',
+  'title_agb' => 'Allgemeine Gesch&auml;ftsbedingungen:',
+  'text_accept_agb' => 'Ich akzeptiere die allgemeinen Gesch&auml;fts- und Lieferbedingungen',
+  'text_gccover' => 'Ihr Coupon deckt den Warenwert, Sie m&uuml;ssen nun lediglich unsere AGB akzeptieren und den Bestellprozess mit Weiter fortsetzen',
+); ?>

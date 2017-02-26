@@ -1,0 +1,15 @@
+<?php $_config_vars = array (
+  'heading_login' => 'Bitte w&auml;hlen',
+  'title_new' => 'Ich bin ein neuer Kunde und m&ouml;chte mich registrieren',
+  'text_new' => 'Durch Ihre Anmeldung bei uns sind Sie in der Lage, schneller zu bestellen, kennen jederzeit den Status Ihrer Bestellungen und haben immer eine aktuelle &Uuml;bersicht &uuml;ber Ihre bisher get&auml;tigten Bestellungen.',
+  'title_returning' => 'Ich bin bereits Kunde',
+  'text_returning' => '<strong>Sie haben schon einmal bei uns bestellt?</strong><br /><br />Herzlichen Dank, dass Sie uns ein weiteres Mal Ihr Vertrauen schenken.',
+  'text_email' => 'E-Mail-Adresse:',
+  'text_password' => 'Passwort:',
+  'text_lost_password' => 'Passwort vergessen?',
+  'title_guest' => 'Ich m&ouml;chte ohne Registrierung bestellen',
+  'text_guest' => 'Bei uns k&ouml;nnen Sie auch ohne Registrierung bestellen.<br />Beachten Sie bitte, dass Sie bei jeder weiteren Bestellung Ihre Daten erneut eingeben m&uuml;ssen.',
+  'text_after_login' => '<p>Nachdem Sie sich angemeldet haben werden Sie automatisch weitergeleitet, entweder</p><ul><li>auf die Startseite oder</li><li>wenn Sie Artikel im Warenkorb haben, auf diesen.</li></ul>',
+  'text_after_login1' => '<p>Nachdem Sie sich angemeldet haben werden Sie automatisch auf die Seite Ihrer Bestellung weitergeleitet.</p>',
+  'text_after_login2' => '<p>Nachdem Sie sich angemeldet haben werden Sie automatisch auf die Produktbewertung weitergeleitet.</p>',
+); ?>

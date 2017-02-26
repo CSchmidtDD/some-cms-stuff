@@ -1,0 +1,6 @@
+
+LIEFERAUFTRAG,
+
+
+
+Im Anhang der E-Mail ist der {$PDF_TYPE}.

@@ -1,0 +1,18 @@
+<?php $_config_vars = array (
+  'stock' => 'Bestand:',
+  'weight' => 'Gewicht:',
+  'status' => 'Status:',
+  'selled' => 'Bereits verkauft:',
+  'model' => 'Art.Nr.:',
+  'print' => 'Artikeldatenblatt drucken',
+  'text_shippingtime' => 'Lieferzeit:',
+  'text_zoom' => 'Bild vergr&ouml;&szlig;ern',
+  'description' => 'Details',
+  'cross_selling' => 'Empfehlung',
+  'also_purchased' => 'Kunden-Tipp',
+  'products_reviews' => 'Meinungen',
+  'products_media' => 'Downloads',
+  'more_images' => 'Mehr Bilder',
+  'text_expires_date' => 'Sonderangebot g&uuml;ltig bis:',
+  'manufacturer_more_of' => 'Mehr Artikel von:',
+); ?>

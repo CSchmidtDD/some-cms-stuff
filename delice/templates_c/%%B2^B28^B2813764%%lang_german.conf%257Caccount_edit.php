@@ -1,0 +1,17 @@
+<?php $_config_vars = array (
+  'heading_account' => 'Ihre pers&ouml;nliche Daten &auml;ndern',
+  'title_personal' => 'Ihre pers&ouml;nlichen Daten',
+  'text_gender' => 'Anrede:',
+  'text_male' => 'Herr',
+  'text_female' => 'Frau',
+  'text_firstname' => 'Vorname:',
+  'text_lastname' => 'Nachname:',
+  'text_birthdate' => 'Geburtsdatum:',
+  'text_email' => 'E-Mail-Adresse:',
+  'text_confirm_email' => 'E-Mail wiederholen:',
+  'text_tel' => 'Telefonnummer:',
+  'text_fax' => 'Faxnummer:',
+  'text_must' => '* erforderliche Informationen',
+  'csID' => 'Kundennummer:',
+  'text_ustid' => 'USt-IdNr.:',
+); ?>

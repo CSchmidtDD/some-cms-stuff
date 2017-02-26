@@ -1,0 +1,21 @@
+{config_load file="$language/lang_$language.conf" section="boxes"}
+
+{$FORM_ACTION}
+<table summary="Login">
+  <tbody>
+    <tr valign="top">
+      <td>
+       {$FIELD_EMAIL}<br />
+        E-Mail
+      </td>
+      <td>
+        {$FIELD_PWD}<br />
+        {#text_pwd#}
+      </td>
+      <td>
+        <button type="submit" value="Login">Login</button>
+      </td>
+    </tr>
+  </tbody>
+</table>
+{$FORM_END}
